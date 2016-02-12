@@ -1,0 +1,6 @@
+If this game crashes on loading, make sure you have .NET Framework 4.0 and XNA Redistributable 4.0 installed.
+
+Normally, these libraries are installed by the game installer. If they were not, you may try the following:
+
+1, Installing them manually from the "helpers" subfolder.
+2, Rebooting your computer.
